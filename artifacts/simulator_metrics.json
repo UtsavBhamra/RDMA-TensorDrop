@@ -1,0 +1,10 @@
+{
+  "execution_mode": "simulator",
+  "provider": "local chunk-copy simulator",
+  "bytes_transferred": 65536,
+  "chunks": 4,
+  "elapsed_us": 940.582,
+  "throughput_mib_s": 66.448,
+  "chunk_latency_us": null,
+  "integrity_ok": true
+}
